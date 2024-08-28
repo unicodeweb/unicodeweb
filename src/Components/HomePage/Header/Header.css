@@ -1,0 +1,11 @@
+.logosite{
+   
+    transform: skewX(-15deg);
+}
+.top-navbar{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.602);
+}
+
+.navmenu li{
+cursor: pointer;
+}
